@@ -132,3 +132,17 @@ Salg av vin i vinbar.
 > 2015
 
 Salg av vin i vinbar.
+
+## Annen arbeidserfaring
+
+### Ungdomsakademiet
+> Privatlærer - matematikk og engelsk \
+> november 2014 - august 2015 
+
+### Plantasjen Koteng 
+> Butikkmedarbeider - sommerjobb \
+> april 2016 - august 2016 
+
+### Foodora Norway
+> Sykkelbud \
+> desember 2015 - september 2016 
