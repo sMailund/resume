@@ -54,7 +54,7 @@ Valgfag: Psykologi, Engelsk Litteratur og Kultur, Historie og Filosofi, Matemati
 > Webutvikler \
 > januar 2018 - juni 2019 (40% deltid)
 
-Deltids systemutvikler for Ambita på [Infolandprosjektet](infoland.ambita.com).
+Deltids systemutvikler for Ambita på [Infolandprosjektet](https://infoland.ambita.com).
 Front-end og back-end webutvikling i bl.a. JavaScript (TypeScript), RiotJS og Java (play2 og spring boot). 
 
 ### Computas
