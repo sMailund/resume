@@ -1,3 +1,7 @@
+Nice one, here's your flag: CTF{m0n3y_c4n_b3_3xch4ng3d_f0r_g00ds_4nd_s3rvic3s}
+
+Legg ved flagget i en mail til meg, så er det større sjanse for at jeg takker ja til tilbudet deres :wink:
+
 # Simen Mailund Svendsen - CV
 Schultz’ gate 29, 0365 Oslo \
 simen.m.s@hotmail.com \
