@@ -72,3 +72,44 @@ Planlegge og gjennomføre skolebesøk fra videregående skoler.
 Undervise i Arduino, processing og 3d-printing. 
 Vekke nysgjerrighet og engasjere elever for informatikk med mål om å tiltrekke flere studenter til IFI. 
 Arbeid på informasjonsstand på arrangementer som f.eks Åpen Dag. 
+
+## Verv
+
+### Homebrew
+Leder \
+august 2019 - d.d. 
+
+Nestleder \
+mai 2018 - august 2019 
+
+### JavaZone
+Frivillig \
+september 2018
+
+### Oslostudentenes Idrettsklubb - Squash
+Teknisk ansvarlig \
+august 2017 - januar 2019
+
+### Cybernetisk Selskab
+Frivillig i studentkafe \
+august 2019 - d.d.
+
+Frivillig i studentkafe \
+august 2016 - januar 2017 
+
+### Kattas Fabelprosaiske Elevsamfund 
+Leder
+september 2014 - september 2015
+
+Styremedlem 
+september 2013 - september 2014
+
+### Øyafestivalen
+Frivillig IT-gruppen \
+2018 
+
+Frivillig i vinbar \
+2016
+
+Frivillig i vinbar \
+2015
