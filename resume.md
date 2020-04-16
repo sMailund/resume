@@ -1,11 +1,16 @@
 # Simen Mailund Svendsen - CV
 Schultz’ gate 29, 0365 Oslo \
 simen.m.s@hotmail.com \
-+47 994 01 024 \
++47 99 40 10 24 \
 1996-06-13
 
 [github](https://github.com/sMailund) \
 [linkedin](www.linkedin.com/in/sMailund)
+
+## Oppsummering
+* Full-stack utvikler med et hint av UX-entusiast
+* Masterstudent med sterke akademiske resultater og verv i studentmiljøet
+* Arbeidserfaring med moderne programvareutvikling med smidige utviklingsprosesser
 
 ## Utdanning
 
@@ -14,10 +19,12 @@ simen.m.s@hotmail.com \
 Informatikk: Programmering og Systemarkitektur \
 august 2019 - d.d
 
-Mastergrad i High Performance Computing. 
+Masterutdanning bestående bl.a. av fag innenfor 
+ethical hacking, webutvikling, informasjonssystemer, high performance computing, kompilatorteknikk og logikk.
+Masteroppgave i High Performance Computing. 
 
 #### Bachelorgrad
-Bachelorgrad i Informatikk: Design, Bruk og Interaksjon 
+Bachelorgrad i Informatikk: Design, Bruk og Interaksjon \
 august 2016 - juni 2019 
 
 Informatikkstudium i med fokus på brukervennlighet og brukerorientert design. 
@@ -83,6 +90,8 @@ august 2019 - d.d.
 Nestleder \
 mai 2018 - august 2019 
 
+Studentforening ved Institutt for Informatikk med mål om å spre kompetanse og engasjement for ølbrygging.
+
 ### JavaZone
 Frivillig \
 september 2018
@@ -97,11 +106,13 @@ august 2019 - d.d. \
 august 2016 - januar 2017 
 
 ### Kattas Fabelprosaiske Elevsamfund 
-Leder
+Leder \
 september 2014 - september 2015
 
-Styremedlem 
+Styremedlem \
 september 2013 - september 2014
+
+Elevlag ved Oslo katedralskole med fokus på brettspill, rollespill, sci-fi og fantasy.
 
 ### Øyafestivalen
 Frivillig IT-gruppen \
